@@ -2,7 +2,7 @@
 
 # Amems Music Bot <img src="https://img.shields.io/github/v/release/AmemsOwner/AmemsMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Amems Music Bot](https://github.com/AmemsOwner/AmemsMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources, this is an upgraded version of old source powered by [TeamAmems](https://github.com/TeamAmems)
+[Amems Music Bot](https://github.com/Von-SecurityAmemsMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources, this is an upgraded version of old source powered by [TeamAmems](https://github.com/Von-Security)
 
 [Click Here](https://github.com/TeamAmems/AmemsMusicBot) To Open Older Version Repository Of AmemsMusicBot.
 
@@ -30,11 +30,11 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/Amemsmusicbot/deployment/loc
 Reach out to the maintainer at one of the following places:
 
 
-- [Telegram Support](https://t.me/AdityaDiscus)
+- [Telegram Support](https://t.me/amemsikasyam)
 
 If you want to say **thank you** or/and support active development of AmemsMusicBot:
 
-- Add a [GitHub Star](https://github.com/AmemsOwner/AmemsMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/Von-Security/AmemsMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
@@ -45,7 +45,7 @@ Special thanks to these amazing projects/people which/who help power Amems Music
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [TeamAmems](https://github.com/TeamAmems)
+- [TeamAmems](https://github.com/Von-Security)
 
 
 
